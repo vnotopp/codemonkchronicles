@@ -5,6 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "npx http-server -c-1 -p 5173 ."
+    "build": "echo \"no build needed\""
   },
   "devDependencies": {
     "http-server": "^14.1.1"
