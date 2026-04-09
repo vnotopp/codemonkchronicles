@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "type": "module",
   "scripts": {
-    "dev": "npx http-server -c-1 -p 5173 ."
+    "dev": "npx http-server -c-1 -p 5173 .",
     "build": "echo \"no build needed\""
   },
   "devDependencies": {
