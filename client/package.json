@@ -1,0 +1,14 @@
+{
+  "name": "code-quest-village-client",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "scripts": {
+    "dev": "npx http-server -c-1 -p 5173 ."
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
+
+
